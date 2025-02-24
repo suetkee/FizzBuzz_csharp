@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "c:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\SueKee\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\SueKee\\Documents\\Fizzbuzzc#\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SueKee\\AppData\\Roaming\\NuGet\\NuGet.Config"
