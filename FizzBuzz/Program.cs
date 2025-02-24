@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using Microsoft.VisualBasic;
+
+namespace FizzBuzz;
+
+public class FizzBuzz
+{
+    public static void Main()
+    {   Console.WriteLine("Hello World");
+    }
+
+
+
+
+
+}
+
+
+
